@@ -10,7 +10,7 @@ Run command : - export  To show all path environment variable
 
 
 
-Set this path to solve errors for zsh ,ls ,clear and etc not found s
+**Set this path to solve errors for zsh ,ls ,clear and etc not found s**
 
 export PATH=$PATH:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
 

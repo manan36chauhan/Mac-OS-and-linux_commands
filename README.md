@@ -3,7 +3,8 @@ MacOS configuration environment variable zsh /bash
 Bash and zsh configuration in macos terminal 
 
 
-
+to save :
+# press Insert to edit and :wq and enter to save
 
 
 Run command : - **export**  To show all path environment variable
@@ -27,7 +28,7 @@ ANDROID_SDK=/Users/manan/Library/Android/sdk
 
 HOME=/Users/manan
 
-**JAVA_HOME=/Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home**
+# **JAVA_HOME=/Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home**
 
 LC_CTYPE=UTF-8
 
@@ -81,13 +82,13 @@ You can check history of existing executed commands :- **history**
 
 
 
- **echo $JAVA_HOME**    Command to display specific path
+ # **echo $JAVA_HOME**    Command to display specific path
 
 
 
 Command to set java jdk path or change installed java path
 
-**export JAVA_HOME=/Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home**
+# **export JAVA_HOME=/Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home**
 
 
 
@@ -95,20 +96,20 @@ Command to set java jdk path or change installed java path
 
 Command to add multiple environment variables  paths in single file  in zshell
 
-**nano ~/.zshrc** or **vim ~/zshrc**
+# **nano ~/.zshrc** or **vim ~/zshrc**
 
 
 
 To change shell bash/zsh 
 
- **chsh -s /bin/zsh for zsh**
+# **chsh -s /bin/zsh for zsh**
 
-Or **chsh -s /bin/bash for bash** 
-
-
+Or  **chsh -s /bin/bash for bash** 
 
 
-To change or add paths in **zsh_profile** or **bash_profile** 
+
+
+To change or add paths in  **zsh_profile** or **bash_profile** 
 
 Run this command
 
@@ -116,13 +117,13 @@ Run this command
 
 If you have installed nano you can run 
 
-**nano ~/.zsh_profile**  
+# **nano ~/.zsh_profile**  
 
 
 
 If you have installed vim editor you have to run this command
 
-**Vim ~/.zsh_profile**   or **Vi ~/.zsh_profile**
+# **Vim ~/.zsh_profile**   or **Vi ~/.zsh_profile**
 
 
 

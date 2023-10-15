@@ -11,9 +11,9 @@ Run command : - ```export```  To show all path environment variable
 
 
 
-**Set this path to solve errors for zsh ,ls ,clear and etc not found s**
+**Set this path to solve errors for zsh ,ls ,clear and etc not found**
 
-```export PATH=$PATH:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin```
+**```export PATH=$PATH:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin```**
 
 
 
@@ -22,13 +22,13 @@ Last login: Tue Oct  3 10:24:23 on console
 
 /Users/manan/.zshrc:9: no such file or directory: /manan
 
-manan@manan ~ % ```export```
+manan@manan ~ % **```export```**
 
 ANDROID_SDK=/Users/manan/Library/Android/sdk
 
 HOME=/Users/manan
 
-```JAVA_HOME=/Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home```
+**```JAVA_HOME=/Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home```**
 
 LC_CTYPE=UTF-8
 
@@ -76,19 +76,19 @@ __CFBundleIdentifier=com.apple.Terminal
 
 
 
-You can check history of existing executed commands :- ```history```
+You can check history of existing executed commands :- **```history```**
 
 
 
 
 
- ```echo $JAVA_HOME```    Command to display specific path
+ **```echo $JAVA_HOME```**    Command to display specific path
 
 
 
 Command to set java jdk path or change installed java path
 
-```export JAVA_HOME=/Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home```
+**```export JAVA_HOME=/Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home```**
 
 
 
@@ -96,20 +96,18 @@ Command to set java jdk path or change installed java path
 
 Command to add multiple environment variables  paths in single file  in zshell
 
-```nano ~/.zshrc``` or ```vim ~/zshrc```
+**```nano ~/.zshrc```** or **```vim ~/zshrc```**
 
 
 
 To change shell bash/zsh 
 
-```chsh -s /bin/zsh``` for zsh
+**```chsh -s /bin/zsh```** for zsh
 
-Or  ```chsh -s /bin/bash for bash``` 
-
-
+Or  **```chsh -s /bin/bash for bash```** 
 
 
-To change or add paths in  ```zsh_profile``` or ```bash_profile``` 
+To change or add paths in  **```zsh_profile```** or **```bash_profile```** 
 
 Run this command
 
@@ -117,13 +115,13 @@ Run this command
 
 If you have installed nano you can run 
 
-```nano ~/.zsh_profile```  
+**```nano ~/.zsh_profile```**  
 
 
 
 If you have installed vim editor you have to run this command
 
-```Vim ~/.zsh_profile```   or ```Vi ~/.zsh_profile```
+**```Vim ~/.zsh_profile```**   or **```Vi ~/.zsh_profile```**
 
 
 

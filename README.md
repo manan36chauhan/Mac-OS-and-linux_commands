@@ -1,4 +1,7 @@
 # Mac-OS-config-
+**to set multiple path in one file open zshrc**
+**```Vi ~/.zshrc```**
+**Then Press ```I``` or Insert and edit the file after this press esc and ```:wq``` and press enter to save changes**
 MacOS configuration environment variable zsh /bash
 Bash and zsh configuration in macos terminal 
 

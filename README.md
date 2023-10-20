@@ -11,7 +11,7 @@ to save :
 # press Insert to edit and :wq and enter to save
 
 
-Run command : - ```export```  To show all path environment variable
+Run command : - **```export```**  To show all path environment variable
 
 
 
@@ -87,8 +87,8 @@ Command to set java jdk path or change installed java path
 **```export JAVA_HOME=/Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home```**
 
 **to save changes after running above command you need to run these command**
-```source ~/.bash_profile```  # If you're using bash
-```source ~/.zshrc```  # If you're using zsh
+**```source ~/.bash_profile```**  # If you're using bash
+**```source ~/.zshrc```**  # If you're using zsh
 
 
 

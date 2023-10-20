@@ -20,10 +20,6 @@ Run command : - ```export```  To show all path environment variable
 **```export PATH=$PATH:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin```**
 
 
-
-
-Last login: Tue Oct  3 10:24:23 on console
-
 /Users/manan/.zshrc:9: no such file or directory: /manan
 
 manan@manan ~ % **```export```**
@@ -81,10 +77,6 @@ __CFBundleIdentifier=com.apple.Terminal
 
 
 You can check history of existing executed commands :- **```history```**
-
-
-
-
 
  **```echo $JAVA_HOME```**    Command to display specific path
 

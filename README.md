@@ -2,6 +2,7 @@
 **to set multiple path in one file open zshrc**
 **```Vi ~/.zshrc```**
 **Then Press ```I``` or Insert and edit the file after this press esc and ```:wq``` and press enter to save changes**
+
 MacOS configuration environment variable zsh /bash
 Bash and zsh configuration in macos terminal 
 
@@ -92,6 +93,10 @@ You can check history of existing executed commands :- **```history```**
 Command to set java jdk path or change installed java path
 
 **```export JAVA_HOME=/Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home```**
+
+**to save changes after running above command you need to run these command**
+```source ~/.bash_profile```  # If you're using bash
+```source ~/.zshrc```  # If you're using zsh
 
 
 
